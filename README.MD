@@ -1,6 +1,8 @@
 # Battle Pass System v2
 
-https://i.ibb.co/LzsnmRPT/552c97d2c40f.png
+<p align="center">
+  <img src="https://i.ibb.co/LzsnmRPT/552c97d2c40f.png" alt="Battle Pass System v2">
+</p>
 
 
 A lightweight, fully configurable, and highly optimized Battle Pass system for Metin2.
