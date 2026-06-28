@@ -1,0 +1,48 @@
+BP_CLOSED	Closed
+BP_JANUARY	January
+BP_FEBRUARY	February
+BP_MARCH	March
+BP_APRIL	April
+BP_MAY	May
+BP_JUNE	June
+BP_JULY	July
+BP_AUGUST	August
+BP_SEPTEMBER	September
+BP_OCTOBER	October
+BP_NOVEMBER	November
+BP_DECEMBER	December
+BATTLEPASS_TITLE	[Battle Pass]
+BATTLPASS_MISSION_TEXT_1	Kill %s monsters
+BATTLPASS_MISSION_TEXT_2	Break %s Metin Stones
+BATTLPASS_MISSION_TEXT_3	Kill %s Map Bosses
+BATTLPASS_MISSION_TEXT_4	Kill %s Tower Bosses
+BATTLPASS_MISSION_TEXT_5	Refine %s items
+BATTLPASS_MISSION_TEXT_6	Open %s chests
+BATTLPASS_MISSION_TEXT_7	Earn %s Yang
+BATTLPASS_MISSION_TEXT_8	Use Call %s times
+BATTLPASS_MISSION_TEXT_9	Play for %s minutes
+BATTLPASS_MISSION_TEXT_10	Catch %s fish
+BATTLPASS_MISSION_TEXT_11	Mine %s times
+BATTLPASS_MISSION_TEXT_12	Obtain %s tools
+BATTLPASS_MISSION_TEXT_13	Use %s scrolls of enchantment
+BATTLPASS_MISSION_TEXT_14	Refine %s scarves
+BATTLPASS_MISSION_TEXT_15	Participate in %s guild wars
+BATTLPASS_SCROLL_TEXT	|Eemoji/key_scroll|e   -  Change page
+NEW_BATTLEPASS_OPEN_TIP1	You can click the Premium button to unlock these rewards,
+NEW_BATTLEPASS_OPEN_TIP2	and you can do this using the following item.
+BATTLEPASS_NOTIF_TITLE	You have received:
+BATTLEPASS_NOTIF_NORMAL	|h|r%s|cff009c1d|H
+BATTLEPASS_NOTIF_PRIMIUM	|h|r%s|cffa83500|H
+TOOLTIP_MISSION_GRADE	Difficulty:
+BATTLE_PASS_LEFT_TIME	 Remaining: %02d:%02d:%02d
+BATTLEPASS_ITEM_DIALOG_QUISTION_1	Do you want to increase your level?
+BATTLEPASS_ITEM_DIALOG_QUISTION_2	Do you want to activate Premium?
+BATTLEPASS_ITEM_DIALOG_QUISTION_3	Do you want to reset the mission?
+BATTLEPASS_ITEM_DIALOG_QUISTION_NEED	You will need %d of the following item to do this
+BATTLEPASS_NOT_ENOUGH_ITEM	You don't have the required item for this.
+MILLION_TEXT_1	%d million
+MILLION_TEXT_2	%.1f million
+MISSION_DAILY_TITLE	Daily
+MISSION_WEEKLY_TITLE	Weekly
+TOOLTIP_BATTLEPASS_CALENDAR	Time until the Battle Pass ends
+TOOLTIP_BATTLEPASS_MISSION	Time until missions are reset

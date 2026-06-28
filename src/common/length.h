@@ -1,0 +1,54 @@
+#ifdef ENABLE_BATTLEPASS_SYSTEM
+enum
+{ // MissionsList
+	BATTLEPASS_KILL_MONSTER,
+	BATTLEPASS_KILL_STONE,
+	BATTLEPASS_KILL_BOSS,
+	BATTLEPASS_KILL_DUNGEON,
+	
+	BATTLEPASS_REFINE_ITEM,
+	BATTLEPASS_BOX_OPEN,
+	BATTLEPASS_GET_GOLD,
+	BATTLEPASS_SHOUT,
+	
+	BATTLEPASS_PLAYTIME,
+	BATTLEPASS_FISHING,
+	BATTLEPASS_MINING,
+	BATTLEPASS_GET_ITEM,
+	BATTLEPASS_ENCHANT_ITEM,
+	BATTLEPASS_ACCE_REFINE,
+	BATTLEPASS_GUILD_WAR,
+
+	// Unused yet..
+	BATTLEPASS_SELL_ITEM,
+	BATTLEPASS_BUY_ITEM,
+	BATTLEPASS_KILL_PLAYERS,
+};
+enum
+{
+	BATTLEPASS_MAX_MISSION_COUNT = 4,	// missions each daily & weekly
+	BATTLEPASS_MAX_EXP = 1000,			// main gauge max exp
+	BATTLEPASS_MAX_REWARDS = 20,		// max rewards per gauge
+	BATTLEPASS_MIN_LEVEL_GAP = 10,		// kill level gap
+};
+enum
+{
+	BATTLEPASS_MISSION_TYPE,
+	BATTLEPASS_MISSION_COUNT,
+	BATTLEPASS_MISSION_REMINING,
+	BATTLEPASS_MISSION_EXP,
+	BATTLEPASS_MISSION_INFO_MAX,
+};
+enum
+{
+	BATTLEPASS_PLAYER_MONTH,			// to know which moth we're on
+	BATTLEPASS_PLAYER_LEVEL,			// to know which gift we can open
+	BATTLEPASS_PLAYER_EXP,				// to level up when exp reach 10
+	BATTLEPASS_PLAYER_NORMAL_REWARD,	// to know which reward we recived
+	BATTLEPASS_PLAYER_PRIMIUM_REWARD,	// to know which primium reward we recived
+	BATTLEPASS_PLAYER_IS_PRIMIUM,		// to know if we're primium or not
+	BATTLEPASS_PLAYER_DAILY_TIME,		// to know if our day time is correct with the global one
+	BATTLEPASS_PLAYER_WEEKLY_TIME,		// to know if our week time is correct with the global one
+	BATTLEPASS_PLAYER_MAX,
+};
+#endif

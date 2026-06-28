@@ -1,0 +1,1 @@
+#define ENABLE_BATTLEPASS_SYSTEM					// Battlepass system by control
